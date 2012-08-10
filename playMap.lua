@@ -116,7 +116,7 @@ end
 function scene:createScene( event )
 	local group = self.view
         mapClip = display.newGroup( )
-        
+        -- test
 	-----------------------------------------------------------------------------
 		
 	--	CREATE display objects and add them to 'group' here.
